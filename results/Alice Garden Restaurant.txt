@@ -1,0 +1,6 @@
+"restaurantName":"Alice Garden Restaurant"
+"restaurantAddress":"57 Oduduwa Way, Ikeja GRA "
+"restaurantPhoneNumber":" 0909 709 9999"
+"review":"Alice Garden is a restaurant that has a lovely ambience with a garden setting that offers a serene environment. However, the food and drinks were not impressive. The dishes lacked flavor and were not well executed. The service was also slow, which made the dining experience less enjoyable. Despite the beautiful setting, the food and service were not up to par. Based on this review, I would advise against visiting Alice Garden."
+"link":"https://www.eatdrinklagos.com/review/2022/6/29/review-alice-garden"
+"single":true

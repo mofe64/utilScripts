@@ -1,0 +1,5 @@
+"restaurantName":"Ohuru by HSE"
+"restaurantAddress":"7 Prince Samuel Adedoyin Street, Lekki "
+"restaurantPhoneNumber":" 08161410578"
+"review":"Based on the review of Ohuru on EatDrinkLagos, it appears that the restaurant has a great atmosphere with a view of the water. However, the food and drinks were not up to standard, with overcooked seafood and poorly made cocktails. The service also seems to be slow. If you are looking for a restaurant with a great atmosphere, Ohuru might be worth a visit. However, if you are more concerned about the quality of the food and drinks, you might want to consider other options. Ultimately, the decision to visit Ohuru or not is up to your personal preferences."
+"link":"https://www.eatdrinklagos.com/review/2022/11/3/review-ohuru"

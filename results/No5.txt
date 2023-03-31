@@ -1,0 +1,6 @@
+"restaurantName":"No5"
+"restaurantAddress":"5 Ayinde Akinmade Road, Lekki Phase I "
+"restaurantPhoneNumber":"0915 324 5827"
+"review":"Based on the review provided, it seems that Hov lounge has a nice atmosphere and outdoor seating area with a view of the water. However, the food and drinks were disappointing, specifically the overcooked seafood and poorly made cocktails. The service was also slow. If you are looking for a restaurant with a good ambiance, Hov lounge might be worth considering. However, if you prioritize the quality of food and drinks, you may want to look elsewhere. Ultimately, the decision to visit Hov lounge or not is up to your personal preferences."
+"link":"https://www.eatdrinklagos.com/review/2022/6/1/review-no5"
+"single":true

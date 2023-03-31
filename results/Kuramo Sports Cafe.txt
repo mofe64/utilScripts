@@ -1,0 +1,6 @@
+"restaurantName":"Kuramo Sports Cafe"
+"restaurantAddress":"Plot 1415, Adetokunbo Ademola Street, Victoria Island "
+"restaurantPhoneNumber":" +234 277 2700-25"
+"review":"Kuramo Sports Cafe at Eko Hotel has a modern and spacious atmosphere with indoor and outdoor seating options. The food selection is diverse with a mix of local and international dishes. The grilled items, particularly the chicken and fish, were well-prepared and flavorful. However, some of the other dishes lacked the same level of quality and taste. The drink options were extensive, but the cocktails could use some improvement. The service was prompt and attentive. Overall, if you are in the area and looking for a place to grab a bite, Kuramo Sports Cafe is worth a visit."
+"link":"https://www.eatdrinklagos.com/review/2022/4/4/review-kuramo-sports-cafe-eko-hotel"
+"single":true

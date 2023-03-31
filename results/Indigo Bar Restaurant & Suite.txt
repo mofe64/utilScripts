@@ -1,0 +1,6 @@
+"restaurantName":"Indigo Bar Restaurant & Suite"
+"restaurantAddress":"242B Muri Okunola Street, Victoria Island "
+"restaurantPhoneNumber":" 01-2701880"
+"review":"Indigo in Victoria Island has a modern and chic decor that creates a pleasant atmosphere for diners. The menu selection is quite impressive, with a diverse range of dishes to choose from. The food is well-prepared and delicious, with fresh ingredients that are cooked to perfection. The drinks menu is also quite extensive, with a variety of cocktails, wines and beers to choose from. The service is attentive and friendly, making for a pleasant dining experience. Overall, Indigo is definitely worth a visit for those looking for a good dining experience in Victoria Island."
+"link":"https://www.eatdrinklagos.com/review/2022/10/18/review-indigo-victoria-island"
+"single":true

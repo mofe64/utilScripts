@@ -1,0 +1,6 @@
+"restaurantName":"Pearl"
+"restaurantAddress":"Eko Pearl, Eko Atlantic City, Victoria Island, Lagos "
+"restaurantPhoneNumber":" Instagram "
+"review":"Pearl Restaurant at Eko Atlantic has a beautiful waterfront view and a chic decor that creates a pleasant atmosphere. The menu offers a decent selection of dishes, and the food is nicely presented. However, some of the dishes we tried were underwhelming in terms of flavor and portion size. The service was also a bit slow, and the prices were on the high side. Overall, while Pearl Restaurant has its positives, it may not be the best option for those looking for exceptional food and value for money."
+"link":"https://www.eatdrinklagos.com/review/2022/1/8/pearl-restaurant-eko-atlantic"
+"single":false

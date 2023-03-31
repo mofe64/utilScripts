@@ -1,0 +1,6 @@
+"restaurantName":"Ci Gusta"
+"restaurantAddress":"Ibyinka Olorunbe Close, off Amodu Ojikutu Street, Victoria Island "
+"restaurantPhoneNumber":" 0915 150 0000"
+"review":"Ci Gusta Lagos is a restaurant with a beautiful and inviting interior decor. The menu offers a variety of Italian dishes, including pizza, pasta, and gelato. The food is well-prepared and tasty, and the portion sizes are generous. The service is also prompt and friendly. However, the prices are on the high side, and the outdoor seating area is not very comfortable. Overall, if you are looking for a nice Italian restaurant with good food and service, Ci Gusta Lagos is worth a visit."
+"link":"https://www.eatdrinklagos.com/review/2023/1/12/review-ci-gusta-lagos"
+"single":false

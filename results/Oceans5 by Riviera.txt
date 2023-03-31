@@ -1,0 +1,6 @@
+"restaurantName":"Oceans5 by Riviera"
+"restaurantAddress":"20 Elsie Femi Pearse Street, Victoria Island, Lagos "
+"restaurantPhoneNumber":" Phone"
+"review":"Based on the review of Oceans5 by Riviera in Victoria Island, Lagos, it appears that the restaurant has a lovely ambiance and an extensive menu with a variety of options. However, the food quality and service seem to be inconsistent. Some dishes were well-prepared and flavorful, while others were disappointing and lacked seasoning. In terms of service, some staff members were friendly and attentive, while others were slow and unresponsive. Overall, if you are looking for a restaurant with a great ambiance and a varied menu, Oceans5 by Riviera could be worth a visit, but be prepared for some inconsistencies in the food and service."
+"link":"https://www.eatdrinklagos.com/review/review-oceans5-by-riviera-victoria-island-lagos"
+"single":false

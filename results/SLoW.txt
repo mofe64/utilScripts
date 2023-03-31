@@ -1,0 +1,6 @@
+"restaurantName":"SLoW"
+"restaurantAddress":"2 Musa Yar' Adua Street, VI, Lagos. "
+"restaurantPhoneNumber":" Phone"
+"review":"Slow Restaurant in Victoria Island has a beautiful and serene atmosphere, with a cozy indoor seating area and a lovely outdoor space that offers a great view. However, the food could use some improvement as it was average and lacked flavor. The service was also a bit slow, which could be frustrating for some diners. Despite these drawbacks, the restaurant's ambiance is worth experiencing, especially if you're looking for a peaceful and relaxing environment to unwind. Ultimately, the decision to visit Slow Restaurant depends on your personal preferences and expectations."
+"link":"https://www.eatdrinklagos.com/review/slow-restaurant-victoria-island"
+"single":true

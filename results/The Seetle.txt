@@ -1,0 +1,6 @@
+"restaurantName":"The Seetle"
+"restaurantAddress":"9 Keffi Street, Off Awolowo Road, Ikoyi. "
+"restaurantPhoneNumber":" Phone"
+"review":"The Seetle in Ikoyi has a lovely atmosphere with a modern and stylish decor. The menu offers a variety of dishes, ranging from African to continental cuisine. However, some of the dishes were not as flavorful as expected, and the portion sizes were small for the prices charged. The service was average, but the wait staff seemed a bit overwhelmed and inattentive at times. Overall, The Seetle is worth a visit if you're in the area and looking for a decent meal in a chic setting."
+"link":"https://www.eatdrinklagos.com/review/the-seetle-ikoyi"
+"single":true

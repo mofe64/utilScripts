@@ -1,0 +1,6 @@
+"restaurantName":"La Chaumiere "
+"restaurantAddress":"1384 Tiamiyu Savage, Victoria Island, Lagos"
+"restaurantPhoneNumber":"08187937339"
+"review":"La Chaumiere has a charming and sophisticated ambiance that exudes a French vibe. The decor is tasteful and the seating arrangements are comfortable. The menu offers a variety of French dishes which are well-prepared and flavorful. The wine list is also impressive with a good selection of French wines. The service is attentive and friendly, and the staff are knowledgeable about the menu. Overall, I highly recommend La Chaumiere for a delightful French dining experience."
+"link":"https://www.eatdrinklagos.com/review/2022/3/4/review-la-chaumiere"
+"single":false

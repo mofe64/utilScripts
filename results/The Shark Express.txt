@@ -1,0 +1,6 @@
+"restaurantName":"The Shark Express"
+"restaurantAddress":"Aaron Mall, 12 Olubunmi Owa Street, Lekki Phase I "
+"restaurantPhoneNumber":" 0809 306 5555"
+"review":"The Shark Express offers a variety of seafood options and has a casual atmosphere that is great for a quick bite. The portions are generous and the prices are reasonable. The service is also efficient which makes for a pleasant dining experience. However, the restaurant lacks ambience and the decor could use some improvement. Overall, if you're in the mood for some decent seafood at an affordable price, The Shark Express is worth a visit."
+"link":"https://www.eatdrinklagos.com/review/2022/5/27/review-the-shark-express"
+"single":true

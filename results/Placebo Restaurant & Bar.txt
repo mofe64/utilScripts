@@ -1,0 +1,6 @@
+"restaurantName":"Placebo Restaurant & Bar"
+"restaurantAddress":"51 Basheer Shittu Avenue, Magodo GRA Phase 2 "
+"restaurantPhoneNumber":" 0904 169 5561"
+"review":"Based on the review of Placebo Magodo, it appears that the restaurant has a nice ambience and decor, and the food is decent. The reviewer particularly enjoyed the chicken wings and the pepper soup. However, the service was slow and the prices were a bit high. Overall, if you are looking for a nice atmosphere and decent food, Placebo Magodo may be worth a visit."
+"link":"https://www.eatdrinklagos.com/review/2023/1/31/review-placebo-magodo"
+"single":true

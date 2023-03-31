@@ -1,0 +1,6 @@
+"restaurantName":"The Shed"
+"restaurantAddress":"1 Wole Olateju Crescent, off Admiralty Way, Lekki Phase 1"
+"restaurantPhoneNumber":"0904 004 4436"
+"review":"The Shed Lekki has a warm and inviting atmosphere with a modern and trendy decor. The staff are friendly and attentive, and the service is efficient. The menu offers a variety of options, with a focus on grilled meats and seafood. The food is well-prepared and flavorful, with generous portions. The cocktails are also well-crafted and delicious. Overall, The Shed Lekki is worth a visit for those looking for a great dining experience."
+"single":false
+"link":"https://www.eatdrinklagos.com/review/2022/8/26/review-the-shed-lekki"

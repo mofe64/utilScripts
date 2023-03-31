@@ -1,0 +1,6 @@
+"restaurantName":"Zen2go"
+"restaurantAddress":"6C Adeleke Adedoyin St., Victoria Island"
+"restaurantPhoneNumber":"0904 442 4442"
+"review":"Zen2Go offers a unique and refreshing dining experience with its fusion of Asian and Nigerian cuisine. The restaurant has a modern and welcoming atmosphere with an open kitchen that adds to the dining experience. The food is well-prepared, flavorful, and presented beautifully. The service is also commendable, with friendly and attentive staff. The only downside is that the prices are a bit on the high side, but the quality of the food and service make it worth it. Overall, I would definitely recommend a visit to Zen2Go for a memorable dining experience."
+"link":"https://www.eatdrinklagos.com/review/2022/4/12/review-zen2go"
+"single":"true"

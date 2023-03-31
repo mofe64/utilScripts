@@ -1,0 +1,5 @@
+"restaurantName":"Room Cafe"
+"restaurantAddress":"190b Prince Ade Odedina Street, Victoria Island "
+"restaurantPhoneNumber":" 0908 285 1609"
+"review":"The Room Cafe in Victoria Island offers a lovely atmosphere with a modern and stylish decor. The food was enjoyable with a good variety of dishes to choose from, and the drinks were well made. However, the service was a bit slow and could use some improvement. Overall, if you're looking for a nice place to grab a bite and relax, the Room Cafe is definitely worth considering."
+"link":"https://www.eatdrinklagos.com/review/2023/3/22/review-room-cafe-victoria-island"

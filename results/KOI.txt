@@ -1,0 +1,6 @@
+"restaurantName":"KOI"
+"restaurantAddress":"3 Babatunde Jose Street, Victoria Island, Lagos. "
+"restaurantPhoneNumber":" Phone"
+"review":"Koi Japanese Sushi in Lagos has a modern and stylish interior with a welcoming atmosphere. The sushi and sashimi dishes are fresh and expertly prepared, while the hot dishes are equally delicious. The service is attentive and friendly, and the drinks menu offers a good selection of cocktails and sake. Overall, Koi Japanese Sushi is a great spot for a satisfying Japanese meal in Lagos. I would recommend a visit."
+"link":"https://www.eatdrinklagos.com/review/koi-japanese-sushi-lagos"
+"single":true

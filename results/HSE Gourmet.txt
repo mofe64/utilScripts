@@ -1,0 +1,6 @@
+"restaurantName":"HSE Gourmet"
+"restaurantAddress":"25 Babatope Bejide Crescent, Lekki Phase I "
+"restaurantPhoneNumber":" 0810 745 3157"
+"review":"HSE Gourmet is a restaurant with a classy and elegant atmosphere. The interior decor is well-designed with comfortable seating arrangements that create a warm and welcoming atmosphere. The restaurant also has an outdoor seating area that offers a beautiful view of the surrounding environment.\n\nHowever, the food at HSE Gourmet was a bit underwhelming. The dishes lacked the expected flavor and depth, and some of the ingredients seemed to have been overcooked. The drinks were also not as impressive as expected, with some cocktails being poorly made. The service was average, although the staff seemed to be doing their best to attend to customers.\n\nIn conclusion, while HSE Gourmet has a great ambiance, the quality of the food and drinks could be improved. If you are looking for a restaurant with a great atmosphere and are not too concerned about the food, then HSE Gourmet might be worth a visit. However, if you are looking for a restaurant with exceptional food and drinks, you might want to consider other options."
+"link":"https://www.eatdrinklagos.com/review/2022/4/18/review-hse-gourmet"
+"single":"true"

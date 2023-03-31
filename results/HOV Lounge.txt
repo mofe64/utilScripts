@@ -1,0 +1,5 @@
+"restaurantName":"HOV Lounge"
+"restaurantAddress":"8 Wole Olateju Cres, Lekki Phase I, Lagos "
+"review":"Based on the review provided, it seems that Hov Lounge has a pleasant atmosphere, but the food and drinks were not up to par. The seafood was overcooked and the cocktails were poorly made. Additionally, the service was slow. If you are looking for a place with a nice ambiance, Hov Lounge may be worth a visit, but if you are primarily focused on the quality of the food and drinks, you may want to consider other options."
+"link":"https://www.eatdrinklagos.com/review/2020/12/7/review-hov-lounge-lekki-lagos"
+"single":true

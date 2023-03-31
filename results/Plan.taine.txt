@@ -1,0 +1,6 @@
+"restaurantName":"Plan.taine"
+"restaurantAddress":"10a Adetokunbo Ademola street, Victoria Island, Lagos"
+"restaurantPhoneNumber":"+234 908 111 1189 "
+"review":"Plantaine in Victoria Island has a lovely and inviting atmosphere with a modern decor and comfortable seating. The menu offers a variety of dishes, including vegetarian options, and the presentation of the food is impressive. The service is attentive and prompt, and the prices are reasonable for the quality of the food and service. Overall, I would recommend a visit to Plantaine for a satisfying dining experience."
+"link":"https://www.eatdrinklagos.com/review/2022/1/13/review-plantaine-victoria-island-lagos"
+"single":true

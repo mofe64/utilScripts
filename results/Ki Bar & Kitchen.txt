@@ -1,0 +1,5 @@
+"restaurantName":"Ki Bar & Kitchen"
+"restaurantAddress":"31A Oju Ologbun Close, Victoria Island "
+"review":"Based on the review provided, Ki Lagos offers a pleasant ambience with an impressive decor and comfortable seating arrangements. The food is described as flavourful, well-presented and of good quality. The reviewer also praised the attentive and friendly service provided by the staff. However, it is noted that the prices are on the expensive side. Overall, if you're looking for a restaurant with a nice atmosphere and good food, Ki Lagos may be worth a visit."
+"link":"https://www.eatdrinklagos.com/review/2022/4/11/review-ki-lagos"
+"single":"true"

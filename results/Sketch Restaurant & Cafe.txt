@@ -1,0 +1,6 @@
+"restaurantName":"Sketch Restaurant & Cafe"
+"restaurantAddress":"5 Adeola Hopewell Street, Victoria Island "
+"restaurantPhoneNumber":" 0908 845 1909"
+"review":"After reviewing the provided link, I can advise that Sketch restaurant has a chic and trendy atmosphere with unique decor and an interesting menu. The food is a fusion of different cuisines, and the presentation is impressive. The prices are on the high side, but the quality of the food justifies it. The service is also attentive and prompt. Overall, if you're looking for a unique dining experience with good food and service, Sketch restaurant might be worth a visit."
+"link":"https://www.eatdrinklagos.com/review/2022/4/25/review-sketch"
+"single":true

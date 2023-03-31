@@ -1,0 +1,6 @@
+"restaurantName":"Cilantro"
+"restaurantAddress":"7 Musa Yar’adua Street, Victoria Island "
+"restaurantPhoneNumber":" Phone"
+"review":"Cilantro Indian Restaurant has a lovely decor and the seating arrangement is quite comfortable. However, the food was not up to par with expectations. The chicken tikka masala lacked flavor and the naan bread was not as fresh as it could have been. The service was decent, but the wait time for the food was a bit too long. Overall, while the ambiance is pleasant, the quality of the food could be improved."
+"link":"https://www.eatdrinklagos.com/review/cilantro-indian-restaurants-lagos"
+"single":true

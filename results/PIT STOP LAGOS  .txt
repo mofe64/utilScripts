@@ -1,0 +1,6 @@
+"restaurantName":"PIT STOP LAGOS  "
+"restaurantAddress":" 92A Younis Bashorun Street, Victoria Island, Lagos  "
+"restaurantPhoneNumber":"   0802 334 7887"
+"review":"Pitstop restaurant is a casual dining spot located in Victoria Island, Lagos. The restaurant has a cozy ambiance with indoor and outdoor seating options. The menu offers a variety of dishes ranging from local to continental cuisines.\n\nThe food at Pitstop restaurant is decent, though not exceptional. Some dishes were well-prepared and flavorful, while others fell short of expectations. The service was prompt and courteous, and the staff was attentive to the needs of customers.\n\nOverall, if you're looking for a casual dining experience with decent food and good service, then Pitstop restaurant might be worth a visit. However, if you're looking for exceptional cuisine, you might want to explore other options."
+"link":"https://www.eatdrinklagos.com/review/2020/11/22/review-pitstop-restaurant-victoria-island-lagos"
+"single":true

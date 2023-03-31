@@ -1,0 +1,6 @@
+"restaurantName":"ILÉ EROS "
+"restaurantAddress":"14 Kafayat Abdulrasaq, off Fola Osibo Rd, Lekki Phase I, Lagos "
+"restaurantPhoneNumber":"   0909 646 0675"
+"review":"Ile Eros offers a unique dining experience with its beautiful decor and ambiance. The restaurant is well designed with a mix of modern and traditional elements that create a warm and inviting atmosphere. However, the food quality was inconsistent during our visit, some dishes were good while others were not up to par. The prices were also a bit on the high side. On the plus side, the service was prompt and attentive. Overall, if you are looking for a good ambiance and decent food, Ile Eros might be worth a try."
+"link":"https://www.eatdrinklagos.com/review/2020/2/9/review-ile-eros-lekki-lagos"
+"single":true

@@ -1,0 +1,6 @@
+"restaurantName":"Taj Restaurant | Bar"
+"restaurantAddress":"1064 Alagbon Close, Victoria Island, Lagos "
+"restaurantPhoneNumber":" 0704 744 9000"
+"review":"Taj Restaurant & Bar in Victoria Island has a lovely decor with a modern and elegant ambience. The menu offers a variety of Indian, Chinese and continental dishes, and the portions are quite generous. The staff are friendly, attentive and always willing to help. However, the food was not exceptional, and some dishes lacked the authentic taste that one would expect from an Indian restaurant. The drinks were also average, and the cocktails were not particularly impressive. Overall, if you're looking for a decent restaurant to try out, Taj Restaurant & Bar might be worth a visit."
+"link":"https://www.eatdrinklagos.com/review/2023/2/4/review-taj-restaurant-amp-bar-victoria-island"
+"single":false

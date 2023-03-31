@@ -1,0 +1,6 @@
+"restaurantName":"Turaka"
+"restaurantAddress":"1637, Adetokunbo Ademola, Victoria Island "
+"restaurantPhoneNumber":" 0906 800 0025"
+"review":"Turaka in Victoria Island has a vibrant and welcoming atmosphere with a beautiful decor that creates a warm and inviting ambiance. The menu offers a variety of dishes with an African twist that are well-prepared and flavorful. The service is also commendable, with attentive and friendly staff who are always ready to assist. Overall, I would recommend a visit to Turaka for a delightful dining experience."
+"link":"https://www.eatdrinklagos.com/review/2022/12/29/review-turaka-victoria-island"
+"single":false

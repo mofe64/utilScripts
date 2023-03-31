@@ -1,0 +1,6 @@
+"restaurantName":"OX Restaurant & Lounge"
+"restaurantAddress":"31 Kofo Abayomi Street, Victoria Island "
+"restaurantPhoneNumber":" 0904 444 4454"
+"review":"Ox is a restaurant with a beautiful and modern ambience. The interior design is elegant and welcoming, and the outdoor seating area is spacious and comfortable. However, the food was not up to par with the expectations. The dishes lacked flavor, and some were overcooked. The drinks were also not impressive, with some being too sweet or too sour. The service was average, with some staff being friendly while others seemed disinterested. Overall, while the atmosphere is pleasant, the food and drinks did not meet expectations."
+"link":"https://www.eatdrinklagos.com/review/2022/6/27/review-ox"
+"single":false

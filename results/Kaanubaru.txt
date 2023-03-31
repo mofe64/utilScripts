@@ -1,0 +1,6 @@
+"restaurantName":"Kaanubaru"
+"restaurantAddress":"20 Fola Jinadu Crescent, Gbagada Phase I "
+"restaurantPhoneNumber":"  0814 969 2257"
+"review":"Based on the review of Kaanubaru Gbagada, the restaurant seems to have a good selection of food and drinks. The reviewer noted that the food was tasty and well-seasoned, and the drinks were also well-made. The service was also prompt and attentive. The restaurant has a nice decor and ambiance, with comfortable seating arrangements. Overall, it seems like Kaanubaru Gbagada would be a good choice for someone looking for a nice dining experience."
+"link":"https://www.eatdrinklagos.com/review/2023/1/3/review-kaanubaru-gbagada"
+"single":true

@@ -1,0 +1,6 @@
+"restaurantName":"Avant Garde by Soul Chow"
+"restaurantAddress":"1 Polo Road, Ikoyi "
+"restaurantPhoneNumber":" 0809 041 5471"
+"review":"Avant Garde by Soul Chow is a restaurant that boasts a modern and stylish interior design. The food is well presented and the menu has a variety of options to choose from. The service is prompt and attentive, ensuring that customers are well taken care of. However, the prices are on the high side and may not be affordable for everyone. Overall, if you're looking for a chic and trendy dining experience, Avant Garde by Soul Chow is worth a visit."
+"link":"https://www.eatdrinklagos.com/review/2022/9/8/review-avant-garde-by-soul-chow-ikoyi"
+"single":false

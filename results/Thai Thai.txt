@@ -1,0 +1,6 @@
+"restaurantName":"Thai Thai"
+"restaurantAddress":"Flat 3, 16 Kofo Abayomi Street, Victoria Island "
+"restaurantPhoneNumber":"0909 117 2906"
+"review":"Thai Thai in Victoria Island has a vibrant and colourful atmosphere that creates a lively dining experience. The menu offers a variety of Thai dishes with a decent range of vegetarian options. The Pad Thai and Tom Yum soup were particularly tasty. The service was prompt and friendly. However, the portion sizes were a bit small for the price. Overall, if you're looking for a fun and flavourful Thai meal, Thai Thai is worth a visit."
+"link":"https://www.eatdrinklagos.com/review/2022/8/2/review-thai-thai-victoria-island"
+"single":true

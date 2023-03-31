@@ -1,0 +1,6 @@
+"restaurantName":"THE OBSERVATORY"
+"restaurantAddress":"15A Admiralty Way, Lekki Phase One, Lagos. "
+"restaurantPhoneNumber":" Phone"
+"review":"The Observatory in Lekki, Lagos has a lovely atmosphere with a modern and trendy decor. The outdoor seating area provides a serene view of the surroundings. However, the food and drinks were not up to par, with some dishes being under-seasoned and overcooked. The cocktails were also not properly mixed. The service was average, but it could have been better. Despite the shortcomings in the food and drinks, the restaurant's ambiance makes it a decent spot for hanging out with friends or hosting a small gathering."
+"link":"https://www.eatdrinklagos.com/review/2021/3/1/review-the-observatory-lekki-lagos"
+"single":true

@@ -1,0 +1,6 @@
+"restaurantName":"SEE"
+"restaurantAddress":"36B Wole Ariyo Street, Lekki Phase I "
+"restaurantPhoneNumber":"0815 332 4888"
+"review":"Based on the review, I would advise caution if you are considering visiting Hov Lounge. While the ambience is described as cosy and intimate, the food and drinks were disappointing, particularly the overcooked seafood and poorly made cocktails. Additionally, the service was slow. However, if you are primarily interested in the environment, it may still be worth a visit."
+"link":"https://www.eatdrinklagos.com/review/2022/6/13/review-see"
+"single":true

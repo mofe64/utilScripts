@@ -1,0 +1,6 @@
+"restaurantName":"Orile"
+"restaurantAddress":"2 Ichie Chris Street, off Abeke Animashaun, Lekki Phase I "
+"restaurantPhoneNumber":" 0913 680 0000"
+"review":"Based on the review of Orile Lekki, the restaurant seems to have a good atmosphere and friendly staff. The reviewer also mentioned that the food was tasty and reasonably priced. The only downside mentioned was that the portions were small. Overall, it appears to be a decent option for a meal out. However, it ultimately depends on your personal preferences and expectations."
+"link":"https://www.eatdrinklagos.com/review/2022/10/11/review-orile-lekki"
+"single":true

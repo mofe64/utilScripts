@@ -1,0 +1,5 @@
+"restaurantName":"Black Olive"
+"restaurantAddress":"63 Awolowo Road, Ikoyi, Lagos"
+"review":"Black Olive in Ikoyi has a pleasant atmosphere with a modern decor and comfortable seating arrangements. The restaurant offers a variety of dishes that are prepared with fresh ingredients. The portions are generous and the presentation of the food is impressive. The service is good with attentive and friendly staff. However, some of the dishes lack seasoning and flavor, which may be disappointing for those who are looking for a more flavorful experience. Overall, Black Olive in Ikoyi is a decent restaurant to visit if you are looking for a relaxed dining experience with good service and ambiance."
+"link":"https://www.eatdrinklagos.com/review/black-olive-ikoyi-review"
+"single":true

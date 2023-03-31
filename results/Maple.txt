@@ -1,0 +1,6 @@
+"restaurantName":"Maple"
+"restaurantAddress":"9 Otunba Adedoyin Ogungbe Crescent, Lekki Phase I "
+"restaurantPhoneNumber":" 0913 500 0462"
+"review":"Maple Restaurant in Lekki has a tasteful and elegant decor with an inviting atmosphere. The menu features a variety of dishes ranging from seafood to grilled meats, and the presentation of the food is quite impressive. The service is prompt and attentive, ensuring that your dining experience is enjoyable. However, some items on the menu are a bit pricey, and the portion sizes could be more generous. Overall, if you're looking for a sophisticated dining experience, Maple Restaurant is definitely worth a visit."
+"link":"https://www.eatdrinklagos.com/review/2022/11/9/review-maple-restaurant-lekki"
+"single":false

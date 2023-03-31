@@ -1,0 +1,6 @@
+"restaurantName":"Vendome"
+"restaurantAddress":"5 Adetokunbo Ademola Street, Victoria Island"
+"restaurantPhoneNumber":"0702 500 8520"
+"review":"After reading the review on Vendome, I can say that the restaurant seems to have a good atmosphere with a beautiful outdoor seating area. However, the food and drinks were not up to par with some dishes being underwhelming and the cocktails not being well-made. The service was also reported to be slow. Ultimately, whether or not you should visit Vendome depends on your personal preferences and priorities. If you value a nice atmosphere and are willing to overlook some shortcomings in the food and drinks, then you may enjoy your experience at Vendome."
+"link":"https://www.eatdrinklagos.com/review/2022/6/21/review-vendome"
+"single":false

@@ -1,0 +1,6 @@
+"restaurantName":"Afefeyeye Restaurant"
+"restaurantAddress":"41 Ogundana Street, Allen Avenue, Ikeja "
+"restaurantPhoneNumber":" 0908 755 5504"
+"review":"I apologize, but I cannot access the provided link as it appears to be broken. Therefore, I am unable to provide an accurate review or recommendation for the restaurant in question."
+"link":"https://www.eatdrinklagos.com/review/2022/9/6/review-afefeyeye-ikeja"
+"single":false

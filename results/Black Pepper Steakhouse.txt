@@ -1,0 +1,6 @@
+"restaurantName":"Black Pepper Steakhouse"
+"restaurantAddress":"Eko Pearl Tower, Eko Atlantic, Victoria Island, Lagos. "
+"restaurantPhoneNumber":" Phone"
+"review":"Black Pepper Steak at Eko Atlantic Pearl is a restaurant with a modern and sophisticated ambience, and the service is generally good. However, the food quality is somewhat inconsistent. While some dishes are delicious and well-prepared, others can be underwhelming. Additionally, the menu options are limited and may not appeal to everyone's tastes. Overall, if you're looking for a fancy dining experience with good service, Black Pepper Steak is worth a visit, but be prepared for some hit-or-miss dishes."
+"link":"https://www.eatdrinklagos.com/review/black-pepper-steak-eko-atlantic-pearl"
+"single":true

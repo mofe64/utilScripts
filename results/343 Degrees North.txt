@@ -1,0 +1,6 @@
+"restaurantName":"343 Degrees North"
+"restaurantAddress":"237 Kofo Abayomi Street, Victoria Island, Lagos "
+"restaurantPhoneNumber":" Phone"
+"review":"Based solely on the review provided, it appears that 343 Degrees North Hartleys Restaurant in VI has a pleasant atmosphere, with a beautiful view and a comfortable seating area. However, the review notes that the food was not up to par, particularly the seafood which was overcooked and the cocktails were not well-made. Additionally, the service was slow. Taking these factors into consideration, it may be best to consider other dining options in the area."
+"link":"https://www.eatdrinklagos.com/review/343-degrees-north-hartleys-restaurant-vi"
+"single":true

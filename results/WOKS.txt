@@ -1,0 +1,6 @@
+"restaurantName":"WOKS"
+"restaurantAddress":"17 Oju Olobun Street, Victoria Island, Lagos. "
+"restaurantPhoneNumber":" Phone"
+"review":"Woks at Blowfish in Victoria Island, Lagos has a modern and chic decor that creates a relaxing atmosphere. The menu offers a variety of Asian-inspired dishes that are well-presented and flavorful. The portions are generous and the prices are reasonable. However, the service can be slow at times and the noise level can be high during peak hours. Overall, Woks at Blowfish is worth a visit for those looking for a delicious Asian cuisine experience in a trendy setting."
+"link":"https://www.eatdrinklagos.com/review/woks-blowfish-victoria-island-lagos"
+"single":true

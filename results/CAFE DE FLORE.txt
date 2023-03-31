@@ -1,0 +1,6 @@
+"restaurantName":"CAFE DE FLORE"
+"restaurantAddress":"12 Glover Road, Ikoyi, Lagos "
+"restaurantPhoneNumber":" Email"
+"review":"Cafe de Flore in Ikoyi, Lagos has a beautiful and inviting atmosphere with a charming outdoor seating area. The menu offers a variety of options with a French twist, and the food is generally well-prepared and flavorful. The service is also efficient and friendly. However, some dishes may be a bit overpriced, and the portion sizes could be more generous. Overall, if you're looking for a pleasant and relaxed dining experience with good food and service, Cafe de Flore is definitely worth considering."
+"link":"https://www.eatdrinklagos.com/review/2021/1/18/review-cafe-de-flore-ikoyi-lagos"
+"single":true

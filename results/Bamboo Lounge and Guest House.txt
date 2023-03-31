@@ -1,0 +1,6 @@
+"restaurantName":"Bamboo Lounge and Guest House"
+"restaurantAddress":"38 Oduduwa Way, Ikeja GRA "
+"restaurantPhoneNumber":" 0812 993 7001"
+"review":"Bamboo Lounge is a great spot for drinks and a chill vibe. The ambience is quite impressive, with a lovely outdoor seating area that provides a relaxing atmosphere. However, the food could use some improvement. Some of the dishes we tried were not properly seasoned, and others were overcooked. The drinks were decent, but not exceptional. The service was also a bit slow. Despite these shortcomings, the environment is quite good, and it could be worth a visit if you're looking for a spot to hang out and have a few drinks with friends."
+"link":"https://www.eatdrinklagos.com/review/2022/5/10/bamboo-lounge-is-vibes-but-the-food-needs-work-"
+"single":false

@@ -1,0 +1,6 @@
+"restaurantName":"Ziya Delicacy Boutique"
+"restaurantAddress":"26B Oju Olobun Close, Victoria Island "
+"restaurantPhoneNumber":" 0814 122 2222"
+"review":"Ziya Delicacy Boutique offers a refreshing and unique dining experience with a fusion of African and Middle Eastern cuisine. The ambiance is warm and inviting with a beautiful decor that complements the food. The dishes are well-prepared, flavorful, and beautifully presented, making it a great place for a special occasion or a date night. The staff are friendly and attentive, making sure that all your needs are met. Overall, I would definitely recommend a visit to Ziya Delicacy Boutique."
+"link":"https://www.eatdrinklagos.com/review/2022/5/19/review-ziya-delicacy-boutique"
+"single":true

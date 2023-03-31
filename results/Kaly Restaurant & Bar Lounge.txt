@@ -1,0 +1,6 @@
+"restaurantName":"Kaly Restaurant & Bar Lounge"
+"restaurantAddress":"7th Floor, 1235B Akin Adesola off Ahmadu Bello Way, Victoria Island "
+"restaurantPhoneNumber":" 0809 205 5555"
+"review":"Kaly in Victoria Island has a great atmosphere with an outdoor seating area that offers a nice view. The food was good, particularly the grilled chicken, and the drinks were well made. The service was also prompt and attentive. Overall, if you're looking for a nice spot to hang out with friends or have a casual date, Kaly could be a good choice for you."
+"link":"https://www.eatdrinklagos.com/review/2022/9/13/review-kaly-victoria-island"
+"single":false

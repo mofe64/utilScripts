@@ -1,0 +1,5 @@
+"restaurantName":"Gusto"
+"restaurantAddress":"---"
+"review":"Gusto in Victoria Island boasts a beautiful and spacious interior with a modern decor. The menu offers a variety of dishes ranging from Italian classics to fusion cuisine. The service was prompt and attentive, and the pricing is reasonable. However, the food quality was average, with some dishes being under-seasoned and lacking in flavor. Overall, while the atmosphere and service were commendable, the food did not quite live up to expectations."
+"link":"https://www.eatdrinklagos.com/review/2023/1/27/review-gusto-victoria-island"
+"single":false

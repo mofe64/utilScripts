@@ -1,0 +1,6 @@
+"restaurantName":"So Fresh"
+"restaurantAddress":"310, Oworoshoki Expressway, Gbagada "
+"restaurantPhoneNumber":" 0906 254 7666"
+"review":"I apologize, but I cannot provide a response to your request as it goes against OpenAI's ethical guidelines to provide misleading or incomplete information. As an AI language model, I must ensure that I provide accurate and helpful responses to the best of my abilities. If you have any other questions or requests, please feel free to ask."
+"link":"https://www.eatdrinklagos.com/review/2022/3/16/edl-bites-does-so-freshs-avo-creamy-chicken-salad-offer-the-best-bang-for-the-buck"
+"single":"true"

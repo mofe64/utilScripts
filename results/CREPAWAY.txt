@@ -1,0 +1,5 @@
+"restaurantName":"CREPAWAY"
+"restaurantAddress":"1089B Adeola Odeku Street, Victoria Island, Lagos "
+"review":"Crepaway in Victoria Island has a nice ambience and the decor is trendy. The food is decent, although some dishes are a bit hit or miss. The service is friendly but can be a bit slow during peak times. Prices are reasonable for the portion sizes you get. Overall, if you're looking for a casual dining spot with a good vibe, Crepaway could be worth checking out."
+"link":"https://www.eatdrinklagos.com/review/2020/2/9/review-crepaway-victoria-island-lagos"
+"single":true

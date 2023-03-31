@@ -1,0 +1,5 @@
+"restaurantName":"Safron Restaurant "
+"restaurantAddress":"57 Joel Ogunnaike Street, Ikeja GRA "
+"restaurantPhoneNumber":" 0817 296 9360"
+"review":"Saffron Restaurant in Ikeja offers a pleasant dining experience with a lovely ambience and decor. The service is prompt and friendly, and the menu has a good variety of dishes to choose from. The food is well-prepared and flavorful, with generous portions. The drinks are also good, with a decent selection of wines and cocktails. Overall, Saffron Restaurant is definitely worth a visit if you're looking for a nice place to dine in Ikeja."
+"link":"https://www.eatdrinklagos.com/review/2023/2/10/review-safron-reestaurant-ikeja"

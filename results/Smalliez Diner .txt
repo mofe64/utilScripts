@@ -1,0 +1,5 @@
+"restaurantName":"Smalliez Diner "
+"restaurantAddress":"181b Moshood Olugbani, Victoria Island "
+"restaurantPhoneNumber":" 0705 123 9999"
+"review":"Smalliez Diner in Victoria Island has a vibrant and inviting atmosphere that is perfect for a casual dining experience. The menu offers a variety of dishes ranging from burgers to pasta, and the portions are quite generous. The service is also prompt and friendly, making for a pleasant dining experience. However, some of the dishes were a bit under-seasoned and lacked the wow factor. Overall, if you're looking for a laid-back spot to grab a bite with friends, Smalliez Diner is worth a visit."
+"link":"https://www.eatdrinklagos.com/review/2023/3/10/review-smalliez-diner-victoria-island"

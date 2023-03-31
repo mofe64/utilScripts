@@ -1,0 +1,6 @@
+"restaurantName":"Godaïf Village"
+"restaurantAddress":"Casa Asmarina, 26B Turnbull Rd, Ikoyi "
+"restaurantPhoneNumber":"Casa Asmarina, 26B Turnbull Rd, Ikoyi "
+"review":"Based on the review on Eat Drink Lagos, it appears that Godaf Village has a nice ambiance and decor. The reviewer also mentioned that the staff were friendly and attentive. However, there were some concerns about the quality of the food. The reviewer noted that some of the dishes were underwhelming and lacked flavor. Additionally, the prices were considered to be on the higher side. Ultimately, whether to visit the restaurant or not depends on your personal preferences and priorities. If you prioritize ambiance and decor over food quality, then Godaf Village might be worth a visit. However, if food quality is a top priority for you, then you may want to consider other options."
+"link":"https://www.eatdrinklagos.com/review/2022/3/14/review-godaf-village"
+"single":"true"

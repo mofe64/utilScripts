@@ -1,0 +1,6 @@
+"restaurantName":"Crust Cafe"
+"restaurantAddress":"5 Fola Osibo Road, Lekki Phase I "
+"restaurantPhoneNumber":" 0901 313 3300"
+"review":"Crust Cafe in Lekki appears to be a lovely spot for a quick bite or a leisurely meal. The atmosphere is casual and welcoming, with a mix of indoor and outdoor seating options. The menu features a variety of dishes, including sandwiches, salads, and pastries, as well as a selection of coffee and tea beverages. The food is reasonably priced and the portions are generous. However, the service can be slow during peak hours, so it's best to visit during off-peak times if you're in a hurry. Overall, if you're looking for a relaxed and laid-back dining experience, Crust Cafe is worth a try."
+"link":"https://www.eatdrinklagos.com/review/2022/12/8/review-crust-cafe-lekki"
+"single":true

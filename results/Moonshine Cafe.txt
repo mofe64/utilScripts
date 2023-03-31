@@ -1,0 +1,6 @@
+"restaurantName":"Moonshine Cafe"
+"restaurantAddress":"7A Admiralty Rd, Lekki Phase I, Lagos"
+"restaurantPhoneNumber":"NA"
+"review":"Moonshine in Lekki has a lovely and inviting atmosphere with a rustic interior that gives off a warm and welcoming vibe. The menu is diverse, with a variety of dishes to choose from, and the food is well-prepared and tasty. The drinks are also delightful, with a good selection of cocktails and other beverages. The service is prompt and attentive, making for an overall enjoyable dining experience. I would definitely recommend visiting Moonshine for a meal or drinks with friends and family."
+"link":"https://www.eatdrinklagos.com/review/review-moonshine-lekki-lagos"
+"single":true

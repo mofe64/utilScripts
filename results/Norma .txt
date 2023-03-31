@@ -1,0 +1,5 @@
+"restaurantName":"Norma "
+"restaurantAddress":"6 Kafi Street, Alausa, Ikeja "
+"restaurantPhoneNumber":" 0808 025 9059"
+"review":"Norma in Ikeja has a warm and inviting atmosphere with a modern decor that creates a relaxing ambiance for diners. The menu features a variety of dishes with a fusion of African and European flavors, which are well-presented and flavorful. The service is attentive and friendly, making for an enjoyable dining experience. However, the prices can be a bit steep for some of the dishes. Overall, if you're looking for a trendy spot with good food and service, Norma in Ikeja is definitely worth a visit."
+"link":"https://www.eatdrinklagos.com/review/2022/11/2/review-norma-ikeja"

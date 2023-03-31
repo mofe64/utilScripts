@@ -1,0 +1,6 @@
+"restaurantName":"Slice"
+"restaurantAddress":"19 Ologun Agbaje Street, Victoria Island "
+"restaurantPhoneNumber":" 0915 555 4646"
+"review":"Based on the review provided in the link, Slice Victoria Island seems to be a great restaurant to visit. The reviewer praised the restaurant for its excellent service, tasty food, and beautiful ambience. The reviewer particularly enjoyed the pizza, which was described as \"heavenly.\" Moreover, the drinks were top-notch, and the prices were reasonable. Therefore, if you're looking for a great dining experience in Victoria Island, Slice Victoria Island is definitely worth a visit."
+"link":"https://www.eatdrinklagos.com/review/2022/7/18/review-slice-victoria-island"
+"single":false
